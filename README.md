@@ -20,17 +20,28 @@ Some features may require access to your device's location. Location data is use
 ### Device Information
 We may collect non-personal device information (such as device model, operating system, etc.) to optimize app performance, detect issues, and prevent abuse or fraud.
 
+### Face Recognition & Face ID
+We offer a face recognition feature that allows [brief purpose: e.g., attendance, profile verification, authentication]. When you choose to use this feature:
+
+Collection & Use: With your explicit consent, we collect images and/or biometric face templates (faceprints) to create and store a face representation used for recognition. This data is used only to provide the face recognition feature (e.g., to match a live capture against a registered face for authentication or attendance).
+
+Disclosure & Sharing: We do not sell or share biometric face data with advertisers. We may share face data with third-party service providers who process biometric data on our behalf only where necessary to provide the feature; such providers are contractually bound to process the data only for our purposes and to apply appropriate safeguards.
+
+Retention: We retain face data only as long as necessary to provide the feature or as required by law. Face data is retained throughout the employee's employeement period. You may request deletion of your face data at any time by contacting us (contact info below).
+
+Consent & Controls: We will request your explicit consent before collecting your face data. You can withdraw consent and request deletion at any time. Disabling the face recognition feature will stop future collection, but will not automatically delete previously collected face data unless you request deletion.
+
+Security: Stored biometric data is encrypted at rest and in transit. Access is limited to authorized personnel and service providers only. We use industry-standard security controls to protect this data.
+
+Data Subject Rights: Depending on your jurisdiction, you may have rights to access, correct, restrict processing, or delete your face data. Contact us to exercise these rights.
+
 ### Third-Party Service Providers
 We may use third-party companies and individuals to:
 
 Facilitate our Services
-
 Provide services on our behalf
-
 Perform service-related activities
-
 Help analyze how our Services are used
-
 These parties may have access to your Personal Information only to perform these tasks and are obligated not to use it for other purposes.
 
 ### Security
@@ -39,7 +50,7 @@ We value your trust in providing your personal information and strive to use ind
 ### Children’s Privacy
 Our Services are not intended for children under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we discover that a child has provided us with personal data, we will delete it immediately. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.
 
-Changes to This Privacy Policy
+### Changes to This Privacy Policy
 We may update this Privacy Policy periodically. We recommend reviewing this page regularly for any changes. Any modifications are effective immediately upon posting on this page.
 
 ### Contact Us
